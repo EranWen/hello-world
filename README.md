@@ -1,2 +1,3 @@
 # hello-world
-Just a demo
+Just a demo.
+I just wanna know how to use github.
